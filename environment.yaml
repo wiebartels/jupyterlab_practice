@@ -4,4 +4,5 @@ channels:
   - defaults
 dependencies:
   - ipykernel
+  - nbconvert
 prefix: C:\Users\User\miniconda3\envs\test_env
